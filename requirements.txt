@@ -1,5 +1,5 @@
 Flask==2.2.2
-pandas==2.8.1
+pandas==1.4.4
 pickleshare==0.7.5
 requests==2.26.0
 scikit-learn==1.1.2
